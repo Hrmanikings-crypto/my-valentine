@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valentine Surprise</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+    <img src="https://i.imgur.com/6Y7rV7y.png" id="minion">
+    <h1>It’s my birthday <em>and</em> Valentine’s Day… so I think you owe me a yes 😏</h1>
+    <button id="yes">Yes</button>
+    <button id="no">No</button>
+    <div id="celebration" style="display:none;">
+      <h2>YAYYY!!</h2>
+      <img src="https://i.imgur.com/xlQF0Wb.gif">
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
